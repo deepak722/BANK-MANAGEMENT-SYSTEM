@@ -1,4 +1,4 @@
-# Bank-Management-System
-programming language used ~ C++
-Name - Deepak Singh
-College - Delhi Technological University
+# Bank Management System
+Deepak Singh
+
+Delhi Technological University
