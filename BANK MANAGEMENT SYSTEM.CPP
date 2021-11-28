@@ -365,7 +365,7 @@ void deposit_withdraw(int n, int option)
 void intro()
 {
 	cout << "BANK MANAGEMENT SYSTEM ";
-	cout << "\nMADE BY : DEEPAK SINGH (2K20/A9/08)\n";
+	cout << "\nMADE BY : DEEPAK SINGH";
 	cout << "\nCOLLEGE : DELHI TECHNOLOGICAL UNIVERSITY";
 }
 
