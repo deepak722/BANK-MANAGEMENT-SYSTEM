@@ -366,7 +366,6 @@ void intro()
 {
 	cout << "BANK MANAGEMENT SYSTEM ";
 	cout << "\nMADE BY : DEEPAK SINGH (2K20/A9/08)\n";
-	cout << "          DEEPAK KUMAR (2K20/A9/07)";
 	cout << "\nCOLLEGE : DELHI TECHNOLOGICAL UNIVERSITY";
 }
 
